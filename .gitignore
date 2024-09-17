@@ -15,5 +15,6 @@ tmp/fileinfo.psb.json
 *.py
 *.res.json
 *.txt
-/PSP_GAME/*
+PSP_GAME/*
 __pycache__/*
+TMPX/*
