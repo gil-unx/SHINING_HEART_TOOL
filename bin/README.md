@@ -3,7 +3,7 @@
 
 [decompiler,mdf,pcc](https://github.com/number201724/psbfile) 
 
-[sq](https://http://squirrel-lang.org/) 
+[sq](http://squirrel-lang.org/) 
 
 [UMDReplace_x64](https://github.com/Snakes128/UMD-replace_x64/) 
 
